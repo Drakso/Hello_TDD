@@ -66,6 +66,7 @@ In this modern age where we rely on technology for almost everything. This is do
 * Conventions and practices
   * The main method we are testing is often named as **sut** ( System Under Test )
   * The result of the method we are testing is often named **actual**
+  * The expected value is often named **expected**
   * Test names should explain
     * What method we are testing
     * What is the behavior we are testing
